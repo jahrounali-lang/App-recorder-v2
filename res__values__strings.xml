@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screen Recorder</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="saving">Saving…</string>
+    <string name="automatic_mode">Automatic mode</string>
+    <string name="automatic_mode_hint">Picks the highest resolution and frame rate your device can really encode.</string>
+    <string name="resolution">Resolution</string>
+    <string name="fps">Frame rate</string>
+    <string name="audio">Audio</string>
+    <string name="recordings">Recordings</string>
+    <string name="no_recordings">No recordings yet</string>
+    <string name="open">Open</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_title">Delete recording?</string>
+    <string name="notif_stop">Stop</string>
+    <string name="notif_pause">Pause</string>
+    <string name="notif_resume">Resume</string>
+    <string name="notif_recording">Recording screen</string>
+    <string name="notif_paused">Recording paused</string>
+    <string name="notif_saved">Recording saved</string>
+    <string name="notif_saved_text">Tap to play</string>
+    <string name="channel_recording">Screen recording</string>
+    <string name="channel_saved">Saved recordings</string>
+</resources>
